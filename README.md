@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,244 skills** (2,569 Claude · 675 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-09-10.
+**3,246 skills** (2,571 Claude · 675 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-09-11.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
@@ -22,9 +22,9 @@ If you find this useful, **a star helps other people find it** — this is a sma
 <!-- CATEGORY_TABLE:START -->
 | Category | Skills | |
 | --- | ---: | --- |
-| 💻 Coding & Dev | 689 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding) |
+| 💻 Coding & Dev | 690 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding) |
 | ✨ Other | 548 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=other) |
-| 🎨 Design | 294 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design) |
+| 🎨 Design | 295 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design) |
 | ⚡ Productivity | 218 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=productivity) |
 | 📈 Stocks & Trading | 192 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks) |
 | 🛠️ DevOps & Infra | 165 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops) |
