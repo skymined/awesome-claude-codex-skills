@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,246 skills** (2,571 Claude · 675 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-09-11.
+**3,246 skills** (2,570 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-09-12.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
@@ -22,22 +22,22 @@ If you find this useful, **a star helps other people find it** — this is a sma
 <!-- CATEGORY_TABLE:START -->
 | Category | Skills | |
 | --- | ---: | --- |
-| 💻 Coding & Dev | 690 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding) |
-| ✨ Other | 548 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=other) |
-| 🎨 Design | 295 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design) |
+| 💻 Coding & Dev | 693 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding) |
+| ✨ Other | 546 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=other) |
+| 🎨 Design | 297 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design) |
 | ⚡ Productivity | 218 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=productivity) |
 | 📈 Stocks & Trading | 192 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks) |
-| 🛠️ DevOps & Infra | 165 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops) |
+| 🛠️ DevOps & Infra | 164 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops) |
 | 📊 Data & Analytics | 157 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=data) |
-| 🤖 AI & Agent Dev | 136 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=ai-agents) |
-| 💼 Business & Finance | 129 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business) |
+| 🤖 AI & Agent Dev | 137 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=ai-agents) |
+| 💼 Business & Finance | 128 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business) |
 | ⚖️ Legal & Compliance | 109 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal) |
 | 🧬 Science & Research | 89 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=science) |
 | 📄 Docs & Office | 83 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=docs) |
 | ✍️ Writing | 82 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=writing) |
 | 📣 Marketing | 71 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=marketing) |
-| 🔍 Research & Learning | 63 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=research) |
-| 🤝 Sales | 62 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=sales) |
+| 🔍 Research & Learning | 62 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=research) |
+| 🤝 Sales | 61 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=sales) |
 | 🗂️ Project Management | 51 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=pm) |
 | 🔎 SEO | 39 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=seo) |
 | 💬 Communication | 21 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=communication) |
@@ -54,7 +54,7 @@ The biggest categories split into subcategories on the site (pick one category t
 <details>
 <summary>💻 Coding & Dev</summary>
 
-- Debugging (106) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=debugging)
+- Debugging (107) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=debugging)
 - Code Review (29) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=code-review)
 - Testing & QA (28) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=testing-qa)
 - Git & Version Control (28) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=git-workflow)
@@ -110,7 +110,7 @@ The biggest categories split into subcategories on the site (pick one category t
 <details>
 <summary>🛠️ DevOps & Infra</summary>
 
-- Security Review (33) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops&subcategory=security-review)
+- Security Review (32) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops&subcategory=security-review)
 - CI/CD (21) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops&subcategory=ci-cd)
 - Containers & Orchestration (20) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops&subcategory=containers)
 - Cloud Infrastructure (15) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops&subcategory=cloud-infra)
@@ -205,7 +205,7 @@ The biggest categories split into subcategories on the site (pick one category t
 <details>
 <summary>🔍 Research & Learning</summary>
 
-- Academic Research (29) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=research&subcategory=academic-research)
+- Academic Research (28) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=research&subcategory=academic-research)
 - Market Research (2) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=research&subcategory=market-research)
 
 </details>
@@ -213,7 +213,7 @@ The biggest categories split into subcategories on the site (pick one category t
 <details>
 <summary>🤝 Sales</summary>
 
-- Outreach (10) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=sales&subcategory=outreach)
+- Outreach (9) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=sales&subcategory=outreach)
 - Proposals & RFPs (4) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=sales&subcategory=proposals-rfp)
 - CRM & Pipeline (1) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=sales&subcategory=crm-pipeline)
 
