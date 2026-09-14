@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,247 skills** (2,571 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-09-13.
+**3,248 skills** (2,572 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-09-14.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
@@ -31,7 +31,7 @@ If you find this useful, **a star helps other people find it** — this is a sma
 | 📊 Data & Analytics | 157 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=data) |
 | 🤖 AI & Agent Dev | 138 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=ai-agents) |
 | 💼 Business & Finance | 128 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business) |
-| ⚖️ Legal & Compliance | 109 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal) |
+| ⚖️ Legal & Compliance | 110 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal) |
 | 🧬 Science & Research | 89 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=science) |
 | 📄 Docs & Office | 83 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=docs) |
 | ✍️ Writing | 82 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=writing) |
