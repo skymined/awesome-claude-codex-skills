@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,275 skills** (2,599 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-09-25.
+**3,275 skills** (2,599 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-09-26.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
@@ -98,12 +98,13 @@ The biggest categories split into subcategories on the site (pick one category t
 <details>
 <summary>📈 Stocks & Trading</summary>
 
-- Fundamental & Filings (65) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks&subcategory=fundamental-research)
-- Backtesting & Screening (27) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks&subcategory=backtesting-screening)
+- Fundamental & Filings (66) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks&subcategory=fundamental-research)
+- Backtesting & Screening (26) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks&subcategory=backtesting-screening)
 - Technical Analysis (15) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks&subcategory=technical-analysis)
 - Options & Derivatives (15) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks&subcategory=options-derivatives)
 - Portfolio & Risk (12) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks&subcategory=portfolio-risk)
 - Korean Market (2) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks&subcategory=korean-market)
+- Market Data & Brokers (1) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks&subcategory=market-data-broker)
 
 </details>
 
