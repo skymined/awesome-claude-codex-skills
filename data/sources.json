@@ -333,6 +333,15 @@
       "path": "SKILL.md",
       "category": "stocks",
       "notes": "Single-skill repo: US/HK stock data toolkit (CBOE options, FINRA short volume, SEC EDGAR)"
+    },
+    {
+      "repo": "alapha888/agent-skills-en",
+      "branch": "master",
+      "tool": "claude",
+      "type": "collection",
+      "match": ["SKILL.md"],
+      "includePrefix": "skills/",
+      "notes": "Five MIT-licensed English productivity skills: tech-writing proofreading, conventional commit messages, meeting notes to structured minutes, a five-axis code-review checklist, and a deep-research framework."
     }
   ]
 }
