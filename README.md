@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,311 skills** (2,635 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-10-23.
+**3,315 skills** (2,639 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-10-24.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
@@ -22,15 +22,15 @@ If you find this useful, **a star helps other people find it** — this is a sma
 <!-- CATEGORY_TABLE:START -->
 | Category | Skills | |
 | --- | ---: | --- |
-| 💻 Coding & Dev | 698 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding) |
-| ✨ Other | 562 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=other) |
+| 💻 Coding & Dev | 697 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding) |
+| ✨ Other | 563 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=other) |
 | 🎨 Design | 304 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design) |
 | ⚡ Productivity | 221 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=productivity) |
-| 📈 Stocks & Trading | 196 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks) |
+| 📈 Stocks & Trading | 197 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks) |
 | 📊 Data & Analytics | 165 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=data) |
 | 🛠️ DevOps & Infra | 164 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops) |
 | 🤖 AI & Agent Dev | 143 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=ai-agents) |
-| 💼 Business & Finance | 127 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business) |
+| 💼 Business & Finance | 130 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business) |
 | ⚖️ Legal & Compliance | 114 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal) |
 | 🧬 Science & Research | 95 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=science) |
 | 📄 Docs & Office | 82 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=docs) |
@@ -57,7 +57,7 @@ The biggest categories split into subcategories on the site (pick one category t
 - Debugging (110) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=debugging)
 - Code Review (30) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=code-review)
 - Testing & QA (28) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=testing-qa)
-- Git & Version Control (24) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=git-workflow)
+- Git & Version Control (23) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=git-workflow)
 - Dev Tooling & Automation (17) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=dev-tooling)
 - Docs & Release Notes (8) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=docs-release)
 
@@ -144,7 +144,7 @@ The biggest categories split into subcategories on the site (pick one category t
 
 - Financial Modeling (16) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business&subcategory=financial-modeling)
 - Fundraising (7) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business&subcategory=fundraising)
-- Accounting & Tax (5) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business&subcategory=accounting-tax)
+- Accounting & Tax (6) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business&subcategory=accounting-tax)
 - Executive Advisory (5) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business&subcategory=executive-advisory)
 
 </details>
