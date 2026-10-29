@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,306 skills** (2,630 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-10-28.
+**3,309 skills** (2,633 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-10-29.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
@@ -29,9 +29,9 @@ If you find this useful, **a star helps other people find it** — this is a sma
 | 📈 Stocks & Trading | 197 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks) |
 | 📊 Data & Analytics | 165 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=data) |
 | 🛠️ DevOps & Infra | 165 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops) |
-| 🤖 AI & Agent Dev | 136 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=ai-agents) |
+| 🤖 AI & Agent Dev | 137 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=ai-agents) |
 | 💼 Business & Finance | 130 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business) |
-| ⚖️ Legal & Compliance | 114 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal) |
+| ⚖️ Legal & Compliance | 116 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal) |
 | 🧬 Science & Research | 95 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=science) |
 | 📄 Docs & Office | 82 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=docs) |
 | ✍️ Writing | 81 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=writing) |
@@ -153,7 +153,7 @@ The biggest categories split into subcategories on the site (pick one category t
 <summary>⚖️ Legal & Compliance</summary>
 
 - Medical & Regulatory (22) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal&subcategory=medical-regulatory)
-- Security Compliance (15) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal&subcategory=security-compliance)
+- Security Compliance (17) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal&subcategory=security-compliance)
 - Privacy & Data Protection (10) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal&subcategory=privacy-compliance)
 - Contracts & IP (9) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal&subcategory=contracts)
 - AI Regulation (9) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal&subcategory=ai-regulation)
