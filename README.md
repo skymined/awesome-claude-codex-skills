@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,328 skills** (2,652 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-11-05.
+**3,328 skills** (2,652 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-11-06.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
@@ -55,7 +55,7 @@ The biggest categories split into subcategories on the site (pick one category t
 <summary>💻 Coding & Dev</summary>
 
 - Debugging (103) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=debugging)
-- Testing & QA (30) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=testing-qa)
+- Testing & QA (31) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=testing-qa)
 - Code Review (26) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=code-review)
 - Git & Version Control (23) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=git-workflow)
 - Dev Tooling & Automation (15) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding&subcategory=dev-tooling)
