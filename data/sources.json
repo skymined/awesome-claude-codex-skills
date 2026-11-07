@@ -333,6 +333,16 @@
       "path": "SKILL.md",
       "category": "stocks",
       "notes": "Single-skill repo: US/HK stock data toolkit (CBOE options, FINRA short volume, SEC EDGAR)"
+    },
+    {
+      "repo": "mrhy7176/cloudgpu-agent-skills",
+      "branch": "main",
+      "tool": "codex",
+      "type": "collection",
+      "match": [
+        "SKILL.md"
+      ],
+      "notes": "Five Agent Skills for GPU discovery, quote approval, budget-limited GPU jobs and result export"
     }
   ]
 }
