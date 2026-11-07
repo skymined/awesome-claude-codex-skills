@@ -44,6 +44,7 @@ If you find this useful, **a star helps other people find it** — this is a sma
 | 🎓 Education | 23 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=education) |
 | 🌐 Translation | 18 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=translation) |
 | 🎧 Customer Support | 13 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=support) |
+| [CrakSEO/skills](https://github.com/CrakSEO/skills) | Connect Claude/Cursor/Codex to CrakSEO remote MCP servers for keyword research, SERP, backlinks, rank tracking, site audit, local SEO, AI visibility, Search Console and URL indexing | Claude Code, Cursor, Codex | MIT |
 <!-- CATEGORY_TABLE:END -->
 
 ### Drill down further
