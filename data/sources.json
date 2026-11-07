@@ -6,12 +6,8 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
-      "exclude": [
-        "template/SKILL.md"
-      ],
+      "match": ["SKILL.md"],
+      "exclude": ["template/SKILL.md"],
       "notes": "Official Anthropic example Agent Skills"
     },
     {
@@ -19,9 +15,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Official Claude Code CLI repo — skills bundled with first-party plugins (plugin-dev, hookify, migration helpers, etc.)"
     },
     {
@@ -29,9 +23,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Official Anthropic cookbook repo — teaching/reference skills (e.g. creating-financial-models) distinct from anthropics/skills"
     },
     {
@@ -39,9 +31,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "The most-referenced third-party Claude Code skills framework (brainstorming -> TDD -> code review development pipeline)"
     },
     {
@@ -49,9 +39,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Large multi-harness plugin marketplace (also consumable by Codex CLI, Cursor, OpenCode, Gemini CLI) built to Anthropic's Agent Skills spec"
     },
     {
@@ -59,9 +47,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Production-grade engineering skills by a credible named author (Addy Osmani)"
     },
     {
@@ -69,9 +55,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Scientific-research domain skills (biology, chemistry, medicine, drug discovery); also Codex/Cursor-compatible"
     },
     {
@@ -79,9 +63,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Creative/writing skills collection by a well-known Chinese AI commentator"
     },
     {
@@ -89,9 +71,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "A moderate-size, well-organized dedicated skills marketplace"
     },
     {
@@ -99,9 +79,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Small cross-tool skill + AGENTS.md playbook set (Codex, Claude Code, Cursor, OpenClaw)"
     },
     {
@@ -109,9 +87,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Very well-known Claude Code config/monitoring tool (aitmpl.com); by far the largest single verified skill catalog among general-purpose repos"
     },
     {
@@ -119,9 +95,7 @@
       "branch": "main",
       "tool": "codex",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Official successor to openai/skills, which was deprecated 2026-06-22 (see its README's deprecation banner). Skills bundled inside 200+ per-integration plugin directories."
     },
     {
@@ -129,9 +103,7 @@
       "branch": "main",
       "tool": "codex",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Community Codex CLI skills catalog focused on dev workflows (git, PR, CI, code review, TDD)"
     },
     {
@@ -139,9 +111,7 @@
       "branch": "master",
       "tool": "codex",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Dedicated Codex-native skill library (not a Claude repo that merely claims Codex compatibility)"
     },
     {
@@ -149,9 +119,7 @@
       "branch": "main",
       "tool": "codex",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Interactive code knowledge-graph explorer distributed as ~9 bundled skills; Codex/Claude/Cursor compatible"
     },
     {
@@ -159,12 +127,8 @@
       "branch": "master",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
-      "excludePrefixes": [
-        "composio-skills/"
-      ],
+      "match": ["SKILL.md"],
+      "excludePrefixes": ["composio-skills/"],
       "notes": "Hand-authored example skills. composio-skills/ is 800+ auto-generated one-skill-per-SaaS-app templates — excluded as low-signal noise."
     },
     {
@@ -172,12 +136,8 @@
       "branch": "master",
       "tool": "codex",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
-      "excludePrefixes": [
-        "composio-skills/"
-      ],
+      "match": ["SKILL.md"],
+      "excludePrefixes": ["composio-skills/"],
       "notes": "Codex-flavored counterpart to ComposioHQ/awesome-claude-skills; same auto-generated composio-skills/ subtree excluded."
     },
     {
@@ -185,9 +145,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "excludeDotDirs": true,
       "notes": "Large role-based marketplace (marketing, finance, compliance, product, engineering, research, PM, ...). .gemini/ is a mirrored copy of the same catalog for Gemini CLI — excluded to avoid duplicates."
     },
@@ -196,9 +154,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Korean prose tone/register control (humanize/detect/proofread/restyle/translate-polish/polish-all)"
     },
     {
@@ -206,9 +162,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Korean AI-writing humanizer, style guide, and grammar checker"
     },
     {
@@ -216,9 +170,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Korean-market marketing/business toolkit (copywriting, Naver SEO, compliance, analytics, ~29 skills)"
     },
     {
@@ -226,9 +178,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Includes a Japanese-to-Korean reading/translation tutor (ja-ko) among general dev-workflow skills"
     },
     {
@@ -236,9 +186,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Includes a Korean technical-documentation writing skill among general dev plugins"
     },
     {
@@ -246,9 +194,7 @@
       "branch": "master",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Includes a Naver-search SEO diagnostic skill among general checkup plugins"
     },
     {
@@ -256,9 +202,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "includePrefix": "plugins/en/",
       "notes": "Dev-workflow cookbook published in 8 locales (en/es/fr/ja/ko/pt/zh-cn/zh-tw) with identical skill sets — only the English locale is scanned to avoid 8x duplication."
     },
@@ -267,9 +211,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Korean public-data/civic-tech skills (Bank of Korea stats, legal/register search, etc.) plus Korean AI-writing humanizer skills"
     },
     {
@@ -277,9 +219,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Korean writing proofreading/style review"
     },
     {
@@ -287,12 +227,8 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
-      "exclude": [
-        "plugins/ko-tech-blog/skills/test-simple/SKILL.md"
-      ],
+      "match": ["SKILL.md"],
+      "exclude": ["plugins/ko-tech-blog/skills/test-simple/SKILL.md"],
       "notes": "Korean tech-blog writing in a specific conversational house style"
     },
     {
@@ -318,12 +254,8 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
-      "exclude": [
-        "claude-for-msft-365-install/.claude/skills/verify/SKILL.md"
-      ],
+      "match": ["SKILL.md"],
+      "exclude": ["claude-for-msft-365-install/.claude/skills/verify/SKILL.md"],
       "notes": "Official Anthropic financial-services skills (equity research, financial analysis, banking/insurance verticals, partner-built LSEG skills). Excludes one stray installer-verification skill."
     },
     {
@@ -331,12 +263,8 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
-      "excludePrefixes": [
-        "examples/"
-      ],
+      "match": ["SKILL.md"],
+      "excludePrefixes": ["examples/"],
       "notes": "Dedicated equity/trading skill collection (screeners, technical analysis, backtesting, options). examples/ contains duplicate copies of the same skills bundled for a demo — excluded."
     },
     {
@@ -344,9 +272,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "SEC-filings/fundamentals-heavy stock research skills (10-K/10-Q/8-K analysis, earnings calls, analyst estimates); requires the Octagon MCP server"
     },
     {
@@ -354,9 +280,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "includePrefix": "plugins/market-analysis/",
       "notes": "Mixed repo (also has unrelated social-media/UI plugins) — scoped to just its stock market-analysis plugin (valuation, correlation, earnings preview/recap, yfinance data)"
     },
@@ -365,9 +289,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "includePrefix": "plugins/data-providers/",
       "notes": "Same repo as above, second entry scoped to its finance data-provider connector plugin"
     },
@@ -376,9 +298,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Interactive Brokers-centric options/portfolio toolkit (greeks, unusual options flow, stop-loss strategies)"
     },
     {
@@ -386,9 +306,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Dedicated US-stock-analysis plugin (DCF, technical analysis, screener, 10-K digest, insider trading, options)"
     },
     {
@@ -396,9 +314,7 @@
       "branch": "master",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Indian NSE/BSE equity technical-analysis skills (Fibonacci, RSI divergence, position sizing) via Groww MCP"
     },
     {
@@ -406,9 +322,7 @@
       "branch": "main",
       "tool": "claude",
       "type": "collection",
-      "match": [
-        "SKILL.md"
-      ],
+      "match": ["SKILL.md"],
       "notes": "Multi-agent stock research toolkit (technical/fundamental/sentiment/risk scoring)"
     },
     {
