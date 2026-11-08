@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,327 skills** (2,651 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-11-07.
+**3,328 skills** (2,652 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-11-08.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
@@ -24,7 +24,7 @@ If you find this useful, **a star helps other people find it** — this is a sma
 | --- | ---: | --- |
 | 💻 Coding & Dev | 694 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding) |
 | ✨ Other | 619 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=other) |
-| 🎨 Design | 310 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design) |
+| 🎨 Design | 311 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design) |
 | ⚡ Productivity | 217 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=productivity) |
 | 📈 Stocks & Trading | 197 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks) |
 | 📊 Data & Analytics | 166 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=data) |
@@ -79,7 +79,7 @@ The biggest categories split into subcategories on the site (pick one category t
 <summary>🎨 Design</summary>
 
 - UI/UX (31) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design&subcategory=ui-ux)
-- Web & Frontend (11) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design&subcategory=web-frontend)
+- Web & Frontend (12) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design&subcategory=web-frontend)
 - Visual Art (5) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design&subcategory=visual-art)
 - Branding (2) → [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design&subcategory=branding)
 
