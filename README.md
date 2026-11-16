@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,338 skills** (2,662 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-11-15.
+**3,345 skills** (2,669 Claude · 676 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-11-16.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
@@ -22,15 +22,15 @@ If you find this useful, **a star helps other people find it** — this is a sma
 <!-- CATEGORY_TABLE:START -->
 | Category | Skills | |
 | --- | ---: | --- |
-| 💻 Coding & Dev | 698 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding) |
-| ✨ Other | 619 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=other) |
+| 💻 Coding & Dev | 700 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=coding) |
+| ✨ Other | 621 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=other) |
 | 🎨 Design | 311 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=design) |
 | ⚡ Productivity | 217 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=productivity) |
 | 📈 Stocks & Trading | 199 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=stocks) |
 | 📊 Data & Analytics | 167 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=data) |
 | 🛠️ DevOps & Infra | 164 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=devops) |
 | 🤖 AI & Agent Dev | 123 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=ai-agents) |
-| 💼 Business & Finance | 118 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business) |
+| 💼 Business & Finance | 120 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=business) |
 | ⚖️ Legal & Compliance | 115 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=legal) |
 | 🧬 Science & Research | 95 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=science) |
 | ✍️ Writing | 93 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=writing) |
@@ -38,7 +38,7 @@ If you find this useful, **a star helps other people find it** — this is a sma
 | 📣 Marketing | 64 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=marketing) |
 | 🔍 Research & Learning | 64 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=research) |
 | 🤝 Sales | 53 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=sales) |
-| 🗂️ Project Management | 44 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=pm) |
+| 🗂️ Project Management | 45 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=pm) |
 | 🔎 SEO | 36 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=seo) |
 | 💬 Communication | 23 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=communication) |
 | 🎓 Education | 23 | [Browse →](https://skymined.github.io/awesome-claude-codex-skills/?category=education) |
