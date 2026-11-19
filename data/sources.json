@@ -333,6 +333,15 @@
       "path": "SKILL.md",
       "category": "stocks",
       "notes": "Single-skill repo: US/HK stock data toolkit (CBOE options, FINRA short volume, SEC EDGAR)"
+    },
+    {
+      "repo": "inhotel-io/govisit-toolkit",
+      "branch": "main",
+      "tool": "claude",
+      "type": "collection",
+      "match": ["SKILL.md"],
+      "includePrefix": "skills/",
+      "notes": "Portable GoVisit travel and hospitality Agent Skills for public catalog search and content retrieval; also supports Codex and other Agent Skills-compatible assistants. Scans canonical skills/ only to avoid duplicate plugin mirrors."
     }
   ]
 }
