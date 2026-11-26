@@ -12,7 +12,7 @@
 ![Screenshot of All Skill Together](docs/screenshot.png)
 
 <!-- STATS:START -->
-**3,367 skills** (2,686 Claude · 681 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-11-25.
+**3,367 skills** (2,686 Claude · 681 Codex) from **40 source repos**, rescanned automatically every day. Last synced: 2026-11-26.
 <!-- STATS:END -->
 
 If you find this useful, **a star helps other people find it** — this is a small side project, not a company, so word of mouth (and the GitHub star graph) is basically the whole distribution strategy.
