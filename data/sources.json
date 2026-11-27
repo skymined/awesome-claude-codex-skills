@@ -333,6 +333,15 @@
       "path": "SKILL.md",
       "category": "stocks",
       "notes": "Single-skill repo: US/HK stock data toolkit (CBOE options, FINRA short volume, SEC EDGAR)"
+    },
+    {
+      "repo": "NoEdgeAI/doc2x-cli-skills",
+      "branch": "main",
+      "tool": "claude",
+      "type": "single",
+      "path": "skills/doc2x-cli/SKILL.md",
+      "category": "docs",
+      "notes": "Official MIT Skill for Doc2X CLI document parsing/translation. Skill source only; separately install @noedgeai-org/doc2x-cli (Node.js >=22), authenticate with OAuth/account, and use cloud account quotas/membership/credits. Not free local processing; no runtime verification claimed."
     }
   ]
 }
