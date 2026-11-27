@@ -333,6 +333,14 @@
       "path": "SKILL.md",
       "category": "stocks",
       "notes": "Single-skill repo: US/HK stock data toolkit (CBOE options, FINRA short volume, SEC EDGAR)"
+    },
+    {
+      "repo": "waynehamadi/datacircle-skill",
+      "branch": "master",
+      "tool": "claude",
+      "type": "single",
+      "path": "SKILL.md",
+      "notes": "Single-skill repo: find the best GTM APIs from the Datacircle benchmark, https://datacircle.dev"
     }
   ]
 }
